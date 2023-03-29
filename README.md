@@ -1,1 +1,1 @@
-# Alogorithm_Practice
+# DSA
